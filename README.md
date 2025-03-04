@@ -2,6 +2,10 @@
 
 Redesigned Engine is a Minecraft 1.21 client made for having good optimized buttons and chill backgrounds for you to play easily with no difficulties to get around!
 
+# Piracy Warning:
+
+This client is made with <a href="https://modrinth.com/app">Modrinth App</a> and requires it to run the .mrpack file. So this does not let you pirate Minecraft: Java Edition!
+
 # Featured Mods that are included!
 <p>Auth Me</p>
 <p>e4mc</p>
