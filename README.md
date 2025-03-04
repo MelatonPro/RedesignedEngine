@@ -1,6 +1,6 @@
 <img src="im tired af.png" alt="Redesigned Engine Logo (included in-game)">
 
-Redesigned Engine is a Minecraft client made for having good optimized buttons and chill backgrounds for you to play easily with no difficulties to get around!
+Redesigned Engine is a Minecraft 1.21 client made for having good optimized buttons and chill backgrounds for you to play easily with no difficulties to get around!
 
 # Featured Mods that are included!
 <p>Auth Me</p>
