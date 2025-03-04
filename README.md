@@ -1,4 +1,4 @@
-<img src="im tired af.png" alt="Redesigned Engine Logo (included in-game)" width="500" height="600">
+<img src="im tired af.png" alt="Redesigned Engine Logo (included in-game)">
 
 Redesigned Engine is a Minecraft client made for having good optimized buttons and chill backgrounds for you to play easily with no difficulties to get around!
 
