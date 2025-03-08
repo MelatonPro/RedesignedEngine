@@ -4,7 +4,7 @@ Redesigned Engine is a Minecraft 1.21 client made for having good optimized butt
 
 # Piracy Warning:
 
-This client is made with <a href="https://modrinth.com/app">Modrinth App</a> and requires it to run the .mrpack file. So this does not let you pirate Minecraft: Java Edition!
+This client is made with <a href="https://modrinth.com/app">Modrinth App</a> and requires it to run the .mrpack file. You can only play Singleplayer unless your signed into a Microsoft account with a digital copy of Minecraft: Java Edition.
 
 # Featured Mods that are included!
 <p>Auth Me</p>
