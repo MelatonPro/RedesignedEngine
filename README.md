@@ -26,5 +26,5 @@ Releases will the tag "Pre-release" is beta versions ready for you to play test.
 # Play Testers (or people with access)
 
 <p><a href="https://youtube.com/@hurriedcomet473">HurriedComet473 ("Comet473 via GitHub")</a></p>
-<p><a href="https://youtube.com/@UndyingVR">UndyingVR ("Undying775 via GitHub")</a></p>
+<p><a href="https://youtube.com/@Undying-y2j">UndyingVR ("Undying775 via GitHub")</a></p>
 <p><a href="https://YouTube.com/@22kbninja">Loonz ("jerkmateranked via GitHub")</a></p>
