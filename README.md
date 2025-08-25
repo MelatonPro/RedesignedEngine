@@ -12,7 +12,7 @@ This client is made with <a href="https://modrinth.com/app">Modrinth App</a> and
 
 # Featured Mods that are included!
 <p>Auth Me</p>
-<p>~~e4mc~~ World Host</p>
+<p>~e4mc~ World Host</p>
 <p>Fabric API</p>
 <p>Animatica</p>
 <p>BetterF3</p>
